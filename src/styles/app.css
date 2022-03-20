@@ -1,0 +1,16 @@
+.layout {
+  background-color: #fbdb45;
+}
+
+.logo {
+  width: 500px;
+}
+
+.facts,
+.list_item {
+  font-family: 'Happy Monkey', cursive;
+}
+
+.list_item {
+  background-color: #fdeda5;
+}
